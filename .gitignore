@@ -1,0 +1,17 @@
+# PowerShell / local output
+*.log
+*.tmp
+*.bak
+*.csv
+*.json
+
+# Local audit output
+CloudGenius-Cost-Audit/
+
+# Secrets and environment-specific configuration
+.env
+.env.*
+*.secret
+*.secrets
+secrets/
+config.local.*
